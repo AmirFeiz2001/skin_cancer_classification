@@ -1,6 +1,6 @@
 # skin_cancer_classification
 
-![screenshot](imageFolder/Skin-cancer-dataset-and-labels.png)
+![screenshot](Skin-cancer-dataset-and-labels.png)
 
 ## Input Format
 - Labels CSV: ISIC_2019_Training_GroundTruth.csv.
